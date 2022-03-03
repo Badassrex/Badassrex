@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Badassrex
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning css, java, javascript and web development
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me: https://wa.me/233570624632, call(0505669275)
